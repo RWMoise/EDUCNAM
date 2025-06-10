@@ -1,0 +1,1 @@
+// CourseCard.tsx content placeholder
